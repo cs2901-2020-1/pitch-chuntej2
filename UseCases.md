@@ -2,7 +2,7 @@
 
 *Software*: Stay Home 
 
-*Actores*: Alumno, Stay Home 
+*Actores*: Usuario
 
 *Precondición*: El usuario debe haber logeado. 
 
@@ -20,7 +20,7 @@
 
 *Software*: Stay Home 
 
-*Actores*: Alumno, Stay Home 
+*Actores*: Usuario
 
 *Precondición*: El usuario debe haber logeado. 
 
