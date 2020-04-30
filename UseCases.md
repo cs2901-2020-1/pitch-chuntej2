@@ -1,4 +1,4 @@
-##Use Cases
+## Use Cases
 
 Actores: Profesores, Alumno, Administrador, Stay Home
 
