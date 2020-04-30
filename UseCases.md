@@ -1,10 +1,10 @@
 # Use Cases
 
-*Software*: Stay Home
-*Actores*: Profesores, Alumno, Administrador, Stay Home
-*Precondición*: El usuario debe haber logeado.
-*Guarantees*: El usuario esta registrado en el sistema
-*UC 01* La aplicación debe permitir al usuario buscar artículos en base a tags<br/>
+*Software*: Stay Home 
+*Actores*: Alumno, Stay Home 
+*Precondición*: El usuario debe haber logeado. 
+*Guarantees*: El usuario esta registrado en el sistema 
+*UC 01* La aplicación debe permitir al usuario buscar artículos en base a tags<br/> 
 - Alumno elige la pestaña "Biblioteca"<br/>
 - Alumno selecciona la categoría del artículo<br/>
 - Stay Home ofrece un buscador para palabras clave<br/>
@@ -14,10 +14,10 @@
 
 -----------------------------------------------------------------------------
 
-*Software*: Stay Home
-*Actores*: Profesores, Alumno, Administrador, Stay Home
-*Precondición*: El usuario debe haber logeado.
-*Guarantees*: El usuario esta registrado en el sistema
+*Software*: Stay Home 
+*Actores*: Alumno, Stay Home 
+*Precondición*: El usuario debe haber logeado. 
+*Guarantees*: El usuario esta registrado en el sistema 
 *UC 02* La aplicación debe permitir al usuario administrar su cuenta<br/>
 - Alumno elige la pestaña "Perfil"<br/>
 - Alumno elige la opción "Modificar perfil"<br/>
