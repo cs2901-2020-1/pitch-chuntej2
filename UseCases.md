@@ -6,7 +6,7 @@
 
 *Precondición*: El usuario debe haber logeado. 
 
-*Guarantees*: El usuario esta registrado en el sistema 
+*Guarantees*: El sistema retornara la busqueda del usuario
 
 *UC 01* La aplicación debe permitir al usuario buscar artículos en base a tags<br/> 
 1- Alumno elige la pestaña "Biblioteca"<br/>
@@ -24,7 +24,7 @@
 
 *Precondición*: El usuario debe haber logeado. 
 
-*Guarantees*: El usuario esta registrado en el sistema 
+*Guarantees*: El usuario podra cambiar detalles de su cuenta
 
 *UC 02* La aplicación debe permitir al usuario administrar su cuenta<br/>
 1- Alumno elige la pestaña "Perfil"<br/>
